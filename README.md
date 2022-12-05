@@ -1,4 +1,4 @@
-``brutework``
+#Instalasi Tools
 
 pkg install python
 
@@ -16,8 +16,10 @@ pip install rich
 
 pip install mechanize
 
-git clone https://github.com/brutework/brutework-
+git clone https://github.com/andibakar/brute_FB
 
-cd brutework-
+cd brute_FB
+
+ls
 
 python brutework.py
